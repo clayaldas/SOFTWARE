@@ -10,18 +10,6 @@ D:\Repositorios\Organizations\FISEI-Patrones-de-Software\CleanTeeth\Core\CleanTe
 D:\Repositorios\Organizations\FISEI-Patrones-de-Software\CleanTeeth\Core\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.pdb
 D:\Repositorios\Organizations\FISEI-Patrones-de-Software\CleanTeeth\Core\CleanTeeth.Domain\obj\Debug\net10.0\ref\CleanTeeth.Domain.dll
 D:\Repositorios\Organizations\FISEI-Patrones-de-Software\CleanTeeth\Core\CleanTeeth.Domain\obj\Debug\net10.0\CleanTee.D3F753EF.Up2Date
-D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Domain\CleanTeeth\Core\CleanTeeth.Domain\bin\Debug\net10.0\CleanTeeth.Domain.deps.json
-D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Domain\CleanTeeth\Core\CleanTeeth.Domain\bin\Debug\net10.0\CleanTeeth.Domain.dll
-D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Domain\CleanTeeth\Core\CleanTeeth.Domain\bin\Debug\net10.0\CleanTeeth.Domain.pdb
-D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Domain\CleanTeeth\Core\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.GeneratedMSBuildEditorConfig.editorconfig
-D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Domain\CleanTeeth\Core\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.AssemblyInfoInputs.cache
-D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Domain\CleanTeeth\Core\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.AssemblyInfo.cs
-D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Domain\CleanTeeth\Core\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.csproj.CoreCompileInputs.cache
-D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Domain\CleanTeeth\Core\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.dll
-D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Domain\CleanTeeth\Core\CleanTeeth.Domain\obj\Debug\net10.0\refint\CleanTeeth.Domain.dll
-D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Domain\CleanTeeth\Core\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.pdb
-D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Domain\CleanTeeth\Core\CleanTeeth.Domain\obj\Debug\net10.0\ref\CleanTeeth.Domain.dll
-D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Domain\CleanTeeth\Core\CleanTeeth.Domain\obj\Debug\net10.0\CleanTee.D3F753EF.Up2Date
 D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE-Clases estudiantes\Domain\CleanTeeth\Core\CleanTeeth.Domain\bin\Debug\net10.0\CleanTeeth.Domain.deps.json
 D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE-Clases estudiantes\Domain\CleanTeeth\Core\CleanTeeth.Domain\bin\Debug\net10.0\CleanTeeth.Domain.dll
 D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE-Clases estudiantes\Domain\CleanTeeth\Core\CleanTeeth.Domain\bin\Debug\net10.0\CleanTeeth.Domain.pdb
@@ -34,3 +22,15 @@ D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUE
 D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE-Clases estudiantes\Domain\CleanTeeth\Core\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.pdb
 D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE-Clases estudiantes\Domain\CleanTeeth\Core\CleanTeeth.Domain\obj\Debug\net10.0\ref\CleanTeeth.Domain.dll
 D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE-Clases estudiantes\Domain\CleanTeeth\Core\CleanTeeth.Domain\obj\Debug\net10.0\CleanTee.D3F753EF.Up2Date
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Domain\CleanTeeth\Core\CleanTeeth.Domain\bin\Debug\net10.0\CleanTeeth.Domain.deps.json
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Domain\CleanTeeth\Core\CleanTeeth.Domain\bin\Debug\net10.0\CleanTeeth.Domain.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Domain\CleanTeeth\Core\CleanTeeth.Domain\bin\Debug\net10.0\CleanTeeth.Domain.pdb
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Domain\CleanTeeth\Core\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Domain\CleanTeeth\Core\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.AssemblyInfoInputs.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Domain\CleanTeeth\Core\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.AssemblyInfo.cs
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Domain\CleanTeeth\Core\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.csproj.CoreCompileInputs.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Domain\CleanTeeth\Core\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Domain\CleanTeeth\Core\CleanTeeth.Domain\obj\Debug\net10.0\refint\CleanTeeth.Domain.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Domain\CleanTeeth\Core\CleanTeeth.Domain\obj\Debug\net10.0\CleanTeeth.Domain.pdb
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Domain\CleanTeeth\Core\CleanTeeth.Domain\obj\Debug\net10.0\ref\CleanTeeth.Domain.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Domain\CleanTeeth\Core\CleanTeeth.Domain\obj\Debug\net10.0\CleanTee.D3F753EF.Up2Date

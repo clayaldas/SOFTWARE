@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fpR+LfpbAqY=",
+  "dgSpecHash": "yLmw1+8PC7U=",
   "success": true,
-  "projectFilePath": "D:\\Repositorios\\Organizations\\FISEI-Patrones-de-Software\\Plantilla-Solucion (NUEVO)\\SOFTWARE - (Solucion docente)\\Domain\\CleanTeeth\\Tests\\CleanTeeth.Domain.Tests\\CleanTeeth.Domain.Tests.csproj",
+  "projectFilePath": "D:\\Repositorios\\Organizations\\FISEI-Patrones-de-Software\\Plantilla-Solucion (NUEVO)\\SOFTWARE\\Domain\\CleanTeeth\\Tests\\CleanTeeth.Domain.Tests\\CleanTeeth.Domain.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\claya\\.nuget\\packages\\microsoft.applicationinsights\\2.23.0\\microsoft.applicationinsights.2.23.0.nupkg.sha512",
     "C:\\Users\\claya\\.nuget\\packages\\microsoft.codecoverage\\18.0.1\\microsoft.codecoverage.18.0.1.nupkg.sha512",

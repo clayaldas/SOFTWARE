@@ -5,24 +5,24 @@ namespace CleanTeeth.Domain.Entities;
 
 public class Patient
 {
-  public Guid Id { get; private set; }
-  public string Name { get; private set; } = null!;
-  public Email Email { get; private set; } = null!;
+    public Guid Id { get; private set; }
+    public string Name { get; private set; }
+    public Email Email { get; private set; }
 
-  public Patient(string name, Email email)
-  {
-    if (string.IsNullOrWhiteSpace(name))
+    public Patient(string name, Email email)
     {
-      throw new BusinessRuleException($"El {nameof(name)} es requerido");
-    }
+        if (string.IsNullOrWhiteSpace(name))
+        {
+            throw new BusinessRuleException("El nombre es requerido");
+        }
 
-    if (email is null)
-    {
-      throw new BusinessRuleException($"El {nameof(email)} es requerido");
-    }
+        if (email is null)
+        {
+            throw new BusinessRuleException("El correo electrónico es requerido");
+        }
 
-    Name = name;
-    Email = email;
-    Id = Guid.CreateVersion7();
-  }
+        Name = name;
+        Email = email;
+        Id = Guid.CreateVersion7();
+    }
 }

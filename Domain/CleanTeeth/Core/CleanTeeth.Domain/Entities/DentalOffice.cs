@@ -4,17 +4,17 @@ namespace CleanTeeth.Domain.Entities;
 
 public class DentalOffice
 {
-  public Guid Id { get; private set; }
-  public string Name { get; private set; } = null!;
+    public Guid Id { get; private set; }
+    public string Name { get; private set; }
 
-  public DentalOffice(string name)
-  {
-    if (string.IsNullOrWhiteSpace(name))
+    public DentalOffice(string name)
     {
-      throw new BusinessRuleException($"El {nameof(name)} es requerido");
-    }
+        if (string.IsNullOrWhiteSpace(name))
+        {
+            throw new BusinessRuleException("El nombre del consultorio es requerido");
+        }
 
-    Name = name;
-    Id = Guid.CreateVersion7();
-  }
+        Name = name;
+        Id = Guid.CreateVersion7();
+    }
 }

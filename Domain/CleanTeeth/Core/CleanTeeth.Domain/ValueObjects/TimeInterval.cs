@@ -4,17 +4,19 @@ namespace CleanTeeth.Domain.ValueObjects;
 
 public record TimeInterval
 {
-  public DateTime Start { get; }
-  public DateTime End { get; }
+    public DateTimeOffset Start { get; }
+    public DateTimeOffset End { get; }
 
-  public TimeInterval(DateTime start, DateTime end)
-  {
-    if (start > end)
+    public TimeInterval(DateTimeOffset start, DateTimeOffset end)
     {
-      throw new BusinessRuleException(@"La fecha de inicio debe ser anterior a la fecha de fin");
-    }
+        if (start >= end)
+        {
+            throw new BusinessRuleException(
+                "La fecha de inicio debe ser anterior a la fecha de fin"
+            );
+        }
 
-    Start = start;
-    End = end;
-  }
+        Start = start;
+        End = end;
+    }
 }
