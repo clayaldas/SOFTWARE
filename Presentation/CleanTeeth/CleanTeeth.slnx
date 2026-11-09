@@ -1,0 +1,21 @@
+<Solution>
+  <Folder Name="/Core/">
+    <Project Path="Core/CleanTeeth.Application/CleanTeeth.Application.csproj" Id="1417cfeb-5ce5-4ddb-91ba-676ec772448d" />
+    <Project Path="Core/CleanTeeth.Domain/CleanTeeth.Domain.csproj" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="Infrastructure/CleanTeeth.Persistence/CleanTeeth.Persistence.csproj" Id="27edf0f2-4820-47e5-9ee6-9ffd0214f9d1" />
+  </Folder>
+  <Folder Name="/Presentation/">
+    <Project Path="Presentation/CleanTeeth.API/CleanTeeth.API.csproj" Id="6a8c6692-484d-4d10-a61b-c6b1bd8614be" />
+  </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+  </Folder>
+  <Folder Name="/Tests/">
+    <Project Path="Tests/CleanTeeth.API.Tests/CleanTeeth.API.Tests.csproj" Id="9228f541-5b80-426f-be65-d613cc00f827" />
+    <Project Path="Tests/CleanTeeth.Application.Tests/CleanTeeth.Application.Tests.csproj" Id="a0fc543c-8fb6-4554-b474-782ac0a30d6d" />
+    <Project Path="Tests/CleanTeeth.Domain.Tests/CleanTeeth.Domain.Tests.csproj" />
+    <Project Path="Tests/CleanTeeth.Persistence.Tests/CleanTeeth.Persistence.Tests.csproj" Id="133556aa-2b1d-441f-aeb9-0c14b706ca7c" />
+  </Folder>
+</Solution>

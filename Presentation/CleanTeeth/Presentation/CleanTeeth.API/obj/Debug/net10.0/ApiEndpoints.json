@@ -1,0 +1,54 @@
+[
+  {
+    "ContainingType": "CleanTeeth.API.Controllers.DentalOfficesController",
+    "Method": "Create",
+    "RelativePath": "api/DentalOffices",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "CleanTeeth.API.Dtos.DentalOffices.CreateDentalOfficeDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Guid",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CleanTeeth.API.Controllers.DentalOfficesController",
+    "Method": "Get",
+    "RelativePath": "api/DentalOffices/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CleanTeeth.Application.Features.DentalOffices.Queries.GetDentalOfficeDetail.DentalOfficeDetailDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

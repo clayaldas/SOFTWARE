@@ -1,0 +1,68 @@
+D:\Temporal\Application_Querys\CleanTeeth\Infrastructure\CleanTeeth.Persistence\bin\Debug\net10.0\CleanTeeth.Persistence.deps.json
+D:\Temporal\Application_Querys\CleanTeeth\Infrastructure\CleanTeeth.Persistence\bin\Debug\net10.0\CleanTeeth.Persistence.dll
+D:\Temporal\Application_Querys\CleanTeeth\Infrastructure\CleanTeeth.Persistence\bin\Debug\net10.0\CleanTeeth.Persistence.pdb
+D:\Temporal\Application_Querys\CleanTeeth\Infrastructure\CleanTeeth.Persistence\bin\Debug\net10.0\CleanTeeth.Application.dll
+D:\Temporal\Application_Querys\CleanTeeth\Infrastructure\CleanTeeth.Persistence\bin\Debug\net10.0\CleanTeeth.Domain.dll
+D:\Temporal\Application_Querys\CleanTeeth\Infrastructure\CleanTeeth.Persistence\bin\Debug\net10.0\CleanTeeth.Application.pdb
+D:\Temporal\Application_Querys\CleanTeeth\Infrastructure\CleanTeeth.Persistence\bin\Debug\net10.0\CleanTeeth.Domain.pdb
+D:\Temporal\Application_Querys\CleanTeeth\Infrastructure\CleanTeeth.Persistence\obj\Debug\net10.0\CleanTeeth.Persistence.csproj.AssemblyReference.cache
+D:\Temporal\Application_Querys\CleanTeeth\Infrastructure\CleanTeeth.Persistence\obj\Debug\net10.0\CleanTeeth.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temporal\Application_Querys\CleanTeeth\Infrastructure\CleanTeeth.Persistence\obj\Debug\net10.0\CleanTeeth.Persistence.AssemblyInfoInputs.cache
+D:\Temporal\Application_Querys\CleanTeeth\Infrastructure\CleanTeeth.Persistence\obj\Debug\net10.0\CleanTeeth.Persistence.AssemblyInfo.cs
+D:\Temporal\Application_Querys\CleanTeeth\Infrastructure\CleanTeeth.Persistence\obj\Debug\net10.0\CleanTeeth.Persistence.csproj.CoreCompileInputs.cache
+D:\Temporal\Application_Querys\CleanTeeth\Infrastructure\CleanTeeth.Persistence\obj\Debug\net10.0\CleanTee.C95305D6.Up2Date
+D:\Temporal\Application_Querys\CleanTeeth\Infrastructure\CleanTeeth.Persistence\obj\Debug\net10.0\CleanTeeth.Persistence.dll
+D:\Temporal\Application_Querys\CleanTeeth\Infrastructure\CleanTeeth.Persistence\obj\Debug\net10.0\refint\CleanTeeth.Persistence.dll
+D:\Temporal\Application_Querys\CleanTeeth\Infrastructure\CleanTeeth.Persistence\obj\Debug\net10.0\CleanTeeth.Persistence.pdb
+D:\Temporal\Application_Querys\CleanTeeth\Infrastructure\CleanTeeth.Persistence\obj\Debug\net10.0\ref\CleanTeeth.Persistence.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Infraestructure\CleanTeeth\Infrastructure\CleanTeeth.Persistence\obj\Debug\net10.0\CleanTeeth.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Infraestructure\CleanTeeth\Infrastructure\CleanTeeth.Persistence\obj\Debug\net10.0\CleanTeeth.Persistence.csproj.AssemblyReference.cache
+D:\Temporal\Infraestructure\CleanTeeth\Infrastructure\CleanTeeth.Persistence\bin\Debug\net10.0\CleanTeeth.Persistence.deps.json
+D:\Temporal\Infraestructure\CleanTeeth\Infrastructure\CleanTeeth.Persistence\bin\Debug\net10.0\CleanTeeth.Persistence.dll
+D:\Temporal\Infraestructure\CleanTeeth\Infrastructure\CleanTeeth.Persistence\bin\Debug\net10.0\CleanTeeth.Persistence.pdb
+D:\Temporal\Infraestructure\CleanTeeth\Infrastructure\CleanTeeth.Persistence\bin\Debug\net10.0\CleanTeeth.Application.dll
+D:\Temporal\Infraestructure\CleanTeeth\Infrastructure\CleanTeeth.Persistence\bin\Debug\net10.0\CleanTeeth.Domain.dll
+D:\Temporal\Infraestructure\CleanTeeth\Infrastructure\CleanTeeth.Persistence\bin\Debug\net10.0\CleanTeeth.Application.pdb
+D:\Temporal\Infraestructure\CleanTeeth\Infrastructure\CleanTeeth.Persistence\bin\Debug\net10.0\CleanTeeth.Domain.pdb
+D:\Temporal\Infraestructure\CleanTeeth\Infrastructure\CleanTeeth.Persistence\obj\Debug\net10.0\CleanTeeth.Persistence.csproj.AssemblyReference.cache
+D:\Temporal\Infraestructure\CleanTeeth\Infrastructure\CleanTeeth.Persistence\obj\Debug\net10.0\CleanTeeth.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temporal\Infraestructure\CleanTeeth\Infrastructure\CleanTeeth.Persistence\obj\Debug\net10.0\CleanTeeth.Persistence.AssemblyInfoInputs.cache
+D:\Temporal\Infraestructure\CleanTeeth\Infrastructure\CleanTeeth.Persistence\obj\Debug\net10.0\CleanTeeth.Persistence.AssemblyInfo.cs
+D:\Temporal\Infraestructure\CleanTeeth\Infrastructure\CleanTeeth.Persistence\obj\Debug\net10.0\CleanTeeth.Persistence.csproj.CoreCompileInputs.cache
+D:\Temporal\Infraestructure\CleanTeeth\Infrastructure\CleanTeeth.Persistence\obj\Debug\net10.0\CleanTee.C95305D6.Up2Date
+D:\Temporal\Infraestructure\CleanTeeth\Infrastructure\CleanTeeth.Persistence\obj\Debug\net10.0\CleanTeeth.Persistence.dll
+D:\Temporal\Infraestructure\CleanTeeth\Infrastructure\CleanTeeth.Persistence\obj\Debug\net10.0\refint\CleanTeeth.Persistence.dll
+D:\Temporal\Infraestructure\CleanTeeth\Infrastructure\CleanTeeth.Persistence\obj\Debug\net10.0\CleanTeeth.Persistence.pdb
+D:\Temporal\Infraestructure\CleanTeeth\Infrastructure\CleanTeeth.Persistence\obj\Debug\net10.0\ref\CleanTeeth.Persistence.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Infraestructure\CleanTeeth\Infrastructure\CleanTeeth.Persistence\bin\Debug\net10.0\CleanTeeth.Persistence.deps.json
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Infraestructure\CleanTeeth\Infrastructure\CleanTeeth.Persistence\bin\Debug\net10.0\CleanTeeth.Persistence.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Infraestructure\CleanTeeth\Infrastructure\CleanTeeth.Persistence\bin\Debug\net10.0\CleanTeeth.Persistence.pdb
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Infraestructure\CleanTeeth\Infrastructure\CleanTeeth.Persistence\bin\Debug\net10.0\CleanTeeth.Application.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Infraestructure\CleanTeeth\Infrastructure\CleanTeeth.Persistence\bin\Debug\net10.0\CleanTeeth.Domain.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Infraestructure\CleanTeeth\Infrastructure\CleanTeeth.Persistence\bin\Debug\net10.0\CleanTeeth.Application.pdb
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Infraestructure\CleanTeeth\Infrastructure\CleanTeeth.Persistence\bin\Debug\net10.0\CleanTeeth.Domain.pdb
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Infraestructure\CleanTeeth\Infrastructure\CleanTeeth.Persistence\obj\Debug\net10.0\CleanTeeth.Persistence.AssemblyInfoInputs.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Infraestructure\CleanTeeth\Infrastructure\CleanTeeth.Persistence\obj\Debug\net10.0\CleanTeeth.Persistence.AssemblyInfo.cs
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Infraestructure\CleanTeeth\Infrastructure\CleanTeeth.Persistence\obj\Debug\net10.0\CleanTeeth.Persistence.csproj.CoreCompileInputs.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Infraestructure\CleanTeeth\Infrastructure\CleanTeeth.Persistence\obj\Debug\net10.0\CleanTee.C95305D6.Up2Date
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Infraestructure\CleanTeeth\Infrastructure\CleanTeeth.Persistence\obj\Debug\net10.0\CleanTeeth.Persistence.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Infraestructure\CleanTeeth\Infrastructure\CleanTeeth.Persistence\obj\Debug\net10.0\refint\CleanTeeth.Persistence.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Infraestructure\CleanTeeth\Infrastructure\CleanTeeth.Persistence\obj\Debug\net10.0\CleanTeeth.Persistence.pdb
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Infraestructure\CleanTeeth\Infrastructure\CleanTeeth.Persistence\obj\Debug\net10.0\ref\CleanTeeth.Persistence.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Presentation\CleanTeeth\Infrastructure\CleanTeeth.Persistence\bin\Debug\net10.0\CleanTeeth.Persistence.deps.json
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Presentation\CleanTeeth\Infrastructure\CleanTeeth.Persistence\bin\Debug\net10.0\CleanTeeth.Persistence.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Presentation\CleanTeeth\Infrastructure\CleanTeeth.Persistence\bin\Debug\net10.0\CleanTeeth.Persistence.pdb
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Presentation\CleanTeeth\Infrastructure\CleanTeeth.Persistence\bin\Debug\net10.0\CleanTeeth.Application.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Presentation\CleanTeeth\Infrastructure\CleanTeeth.Persistence\bin\Debug\net10.0\CleanTeeth.Domain.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Presentation\CleanTeeth\Infrastructure\CleanTeeth.Persistence\bin\Debug\net10.0\CleanTeeth.Application.pdb
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Presentation\CleanTeeth\Infrastructure\CleanTeeth.Persistence\bin\Debug\net10.0\CleanTeeth.Domain.pdb
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Presentation\CleanTeeth\Infrastructure\CleanTeeth.Persistence\obj\Debug\net10.0\CleanTeeth.Persistence.csproj.AssemblyReference.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Presentation\CleanTeeth\Infrastructure\CleanTeeth.Persistence\obj\Debug\net10.0\CleanTeeth.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Presentation\CleanTeeth\Infrastructure\CleanTeeth.Persistence\obj\Debug\net10.0\CleanTeeth.Persistence.AssemblyInfoInputs.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Presentation\CleanTeeth\Infrastructure\CleanTeeth.Persistence\obj\Debug\net10.0\CleanTeeth.Persistence.AssemblyInfo.cs
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Presentation\CleanTeeth\Infrastructure\CleanTeeth.Persistence\obj\Debug\net10.0\CleanTeeth.Persistence.csproj.CoreCompileInputs.cache
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Presentation\CleanTeeth\Infrastructure\CleanTeeth.Persistence\obj\Debug\net10.0\CleanTee.C95305D6.Up2Date
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Presentation\CleanTeeth\Infrastructure\CleanTeeth.Persistence\obj\Debug\net10.0\CleanTeeth.Persistence.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Presentation\CleanTeeth\Infrastructure\CleanTeeth.Persistence\obj\Debug\net10.0\refint\CleanTeeth.Persistence.dll
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Presentation\CleanTeeth\Infrastructure\CleanTeeth.Persistence\obj\Debug\net10.0\CleanTeeth.Persistence.pdb
+D:\Repositorios\Organizations\FISEI-Patrones-de-Software\Plantilla-Solucion (NUEVO)\SOFTWARE - (Solucion docente)\Presentation\CleanTeeth\Infrastructure\CleanTeeth.Persistence\obj\Debug\net10.0\ref\CleanTeeth.Persistence.dll

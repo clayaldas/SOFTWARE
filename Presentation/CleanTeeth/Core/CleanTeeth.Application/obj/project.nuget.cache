@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SGzGJkSxWW4=",
+  "success": true,
+  "projectFilePath": "D:\\Repositorios\\Organizations\\FISEI-Patrones-de-Software\\Plantilla-Solucion (NUEVO)\\SOFTWARE - (Solucion docente)\\Presentation\\CleanTeeth\\Core\\CleanTeeth.Application\\CleanTeeth.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\claya\\.nuget\\packages\\fluentvalidation\\12.2.0\\fluentvalidation.12.2.0.nupkg.sha512",
+    "C:\\Users\\claya\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.14\\microsoft.extensions.dependencyinjection.abstractions.10.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

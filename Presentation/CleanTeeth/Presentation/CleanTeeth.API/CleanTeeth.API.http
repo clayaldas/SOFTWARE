@@ -1,0 +1,41 @@
+@CleanTeeth.API_HostAddress = https://localhost:7032
+@dentalOfficeId = 01a1b74a-4635-7661-8e1e-31286fbaa5be
+ 
+### 1. Crear un consultorio
+POST {{CleanTeeth.API_HostAddress}}/api/dentaloffices
+Content-Type: application/json
+ 
+{ "name": "Consultorio Norte" }
+ 
+### 2. Obtener el consultorio creado
+GET {{CleanTeeth.API_HostAddress}}/api/dentaloffices/{{dentalOfficeId}}
+ 
+### 3. Obtener un consultorio que no existe
+GET {{CleanTeeth.API_HostAddress}}/api/dentaloffices/00000000-0000-0000-0000-000000000000
+ 
+### 4. Nombre vacío
+POST {{CleanTeeth.API_HostAddress}}/api/dentaloffices
+Content-Type: application/json
+ 
+{ "name": "" }
+ 
+### 5. Nombre solo con espacios
+POST {{CleanTeeth.API_HostAddress}}/api/dentaloffices
+Content-Type: application/json
+ 
+{ "name": "   " }
+ 
+### 6. Sin la propiedad name
+POST {{CleanTeeth.API_HostAddress}}/api/dentaloffices
+Content-Type: application/json
+ 
+{ }
+ 
+### 7. Nombre de 151 caracteres
+POST {{CleanTeeth.API_HostAddress}}/api/dentaloffices
+Content-Type: application/json
+ 
+{ "name": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" }
+ 
+### 8. Un Id que no es un Guid
+GET {{CleanTeeth.API_HostAddress}}/api/dentaloffices/abc

@@ -1,0 +1,18 @@
+root = true
+
+# All files
+[*]
+indent_style = space
+
+# Xml files
+[*.xml]
+indent_size = 2
+
+# C# files
+[*.cs]
+
+# No recomendar constructores primarios
+csharp_style_prefer_primary_constructors = false
+
+# Desactivar IDE0290
+dotnet_diagnostic.IDE0290.severity = none
